@@ -1,9 +1,9 @@
 {
     "name": "mohammadrazi/Package",
-    "description": "Package",
+    "description": "package",
     "autoload": {
         "psr-4": {
-            "mohammadrazi\\Package\\": "src/"
+            "mohammadrazi\\package\\": "src/"
         }
     },
     "minimum-stability": "dev",
