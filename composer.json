@@ -1,0 +1,11 @@
+{
+    "name": "mohammadrazi/Package",
+    "description": "Package",
+    "autoload": {
+        "psr-4": {
+            "mohammadrazi\\Package\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
